@@ -3,3 +3,4 @@ python-pip
 snapd
 go
 chromium
+jq
